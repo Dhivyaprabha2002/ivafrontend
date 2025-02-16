@@ -4,7 +4,7 @@ import './Signup.css';
 function Signup ()  {
   const [email, setEmail] = useState('');
 
-  // Handle form submission fjskhfk
+  // Handle form submission fjskhfk siva loosu
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
